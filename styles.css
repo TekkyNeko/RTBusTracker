@@ -1,0 +1,7 @@
+body {
+  background: rgb(59, 59, 59);
+}
+#map {
+  width: 1600px;
+  height: 900px;
+}
